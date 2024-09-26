@@ -1,15 +1,16 @@
-# Linux-IPC-Semaphores
+
 # Ex05-Linux IPC-Semaphores
 
-## Name:Loshini.G
-## Register Number: 212223220051
-## Department: IT
+### Date:
+### Name:Loshini.G
+### Register Number: 212223220051
+### Department: IT
 
 
-# AIM:
+## AIM:
 To Write a C program that implements a producer-consumer system with two processes using Semaphores.
 
-# DESIGN STEPS:
+## DESIGN STEPS:
 
 ### Step 1:
 
@@ -23,8 +24,8 @@ Write the C Program using Linux Process API - Sempahores
 
 Execute the C Program for the desired output. 
 
-# PROGRAM:
-# Developed by
+## PROGRAM:
+## Developed by
 
 #### Name : Loshini.G
 #### Reg No : 212223220051
@@ -32,7 +33,7 @@ Execute the C Program for the desired output.
 
 ## Write a C program that implements a producer-consumer system with two processes using Semaphores.
 
-```
+```c
 /*
  * sem.c  - demonstrates a basic producer-consumer
  *                            implementation.              */
